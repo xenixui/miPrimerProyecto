@@ -1,2 +1,5 @@
 Objetivo 1:
 Obtener el máximo conocimiento en el ámbito de desarrollo front y back.
+
+Objetivo 2:
+Aprobar todas las asignaturas y obtener una nota mínima de un 7.
